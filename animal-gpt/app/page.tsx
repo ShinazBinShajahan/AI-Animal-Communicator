@@ -314,7 +314,9 @@ export default function Home() {
     <div className="flex flex-col h-screen bg-green-50">
       <header className="bg-green-800 text-white shadow-md p-4">
         <div className="flex justify-between items-center max-w-4xl mx-auto">
-          <h1 className="text-xl font-bold">AI Animal Communicator</h1>
+          <h1 className="text-xl font-bold">
+            AI Animal Communicator [AnimalGPT]
+          </h1>
           <Dialog
             open={isChangeAnimalOpen}
             onOpenChange={setIsChangeAnimalOpen}
