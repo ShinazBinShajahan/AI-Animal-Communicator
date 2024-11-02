@@ -33,8 +33,8 @@ For Software:
 To get started, clone the repository and install dependencies:
 
 ```bash
-git clone https://github.com/ShinazBinShajahan/animal-gpt.git
-cd animal-gpt
+git clone https://github.com/ShinazBinShajahan/AI-Animal-Communicator.git
+cd AI-Animal-Communicato
 npm install
 ```
 # Run
