@@ -52,12 +52,11 @@ Screenshots
 
 ![TTS Response](Add screenshot here) Listen as animals respond with their unique sounds.
 
-Diagrams
-![Workflow](Add your workflow/architecture diagram here) The workflow of the AI Animal Communicator, from user input to animal responses.
+
 
 Project Demo
 Video
-[Add your demo video link here] See how users interact with the AI Animal Communicator and enjoy animal responses in real time.
+Out.mp4
 
 Team Contributions
 Shinas Shajahan: Developed core AI logic and animal sound generation.
