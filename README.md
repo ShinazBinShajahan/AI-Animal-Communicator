@@ -46,11 +46,11 @@ Project Documentation
 For Software:
 
 Screenshots
-![Animal Selection](Add screenshot here) Select your animal companion and start chatting!
+![![screenshot 1](image_url)](1.png) Select your animal companion and start chatting!
 
-![Chat Interface](Add screenshot here) Engage in lifelike dialogues with various animals.
+![![screenshot 2](image_url)](2.png) Engage in lifelike dialogues with various animals.
 
-![TTS Response](Add screenshot here) Listen as animals respond with their unique sounds.
+![![screenshot 3](image_url)](3.png) Listen as animals respond with their unique sounds.
 
 
 
