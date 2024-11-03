@@ -56,7 +56,8 @@ Screenshots
 
 Project Demo
 Video
-Out.mp4
+[![demo video](image_url)](Out.mp4)
+
 
 Team Contributions
 Shinas Shajahan: Developed core AI logic and animal sound generation.
