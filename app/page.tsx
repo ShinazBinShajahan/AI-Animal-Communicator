@@ -34,7 +34,7 @@ const animals: {
   {
     type: "cat",
     emoji: "🐱",
-    sounds: ["meow", "meoow", "mew", "purr", "hiss", "meowwww"],
+    sounds: ["meow", "meoow", "mew", "purr", "hiss"],
     pitch: 1.5,
     rate: 1.3,
   },
