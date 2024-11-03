@@ -99,8 +99,7 @@ function generateRealisticSound(animal: Animal): string {
 
   for (let i = 0; i < responseLength; i++) {
     const sound = animalSounds[Math.floor(Math.random() * animalSounds.length)];
-    const pitch =
-      Math.random() > 0.5 ? sound.toUpperCase() : sound.toLowerCase();
+    // const pitch =  Math.random() > 0.5 ? sound.toUpperCase() : sound.toLowerCase();
     const length = Math.random() > 0.8 ? sound.repeat(2) : sound;
     const emphasis = Math.random() > 0.9 ? `${length}!` : length;
     response += (response ? " " : "") + emphasis;
