@@ -197,7 +197,7 @@ export default function Home() {
   const handleSendMessage = () => {
     if (input.trim() === "") return;
 
-    const newMessages = [
+    const newMessages: Message[] = [
       ...messages,
       { id: Date.now().toString(), sender: "user", content: input },
     ];
