@@ -33,8 +33,8 @@ For Software:
 To get started, clone the repository and install dependencies:
 
 ```bash
-git clone [repository-url]
-cd ai-animal-communicator
+git clone https://github.com/ShinazBinShajahan/AI-Animal-Communicator.git
+cd AI-Animal-Communicato
 npm install
 ```
 # Run
@@ -60,9 +60,9 @@ Video
 [Add your demo video link here] See how users interact with the AI Animal Communicator and enjoy animal responses in real time.
 
 Team Contributions
-[Name 1]: Developed core AI logic and animal sound generation.
-[Name 2]: Designed user interface and integrated speech synthesis.
-[Name 3]: Built the animal selection mechanism and message handling logic.
+Shinas Shajahan: Developed core AI logic and animal sound generation.
+Ashish Shaiju: Designed user interface and integrated speech synthesis.
+Chriss Philip Saji: Built the animal selection mechanism and message handling logic.
 Made with ❤️ at TinkerHub Useless Projects
 
 
